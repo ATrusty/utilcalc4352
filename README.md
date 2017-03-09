@@ -6,7 +6,7 @@ CPU Utilization = 1 - P^N
 
 P = I/O Wait time
 
-N = Number of instructions
+N = Number of processes
 
 Instructions for Calculator
 * Open File in Web browser
